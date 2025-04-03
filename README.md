@@ -3,11 +3,8 @@
 
 &nbsp;
 
-# JavaScript: Podstawy – pętle
+# Python: Zaawansowany frontend
 
-Celem tego zestawu zadań jest sprawdzenie, czy rozumiesz działanie pętli `for` oraz `while`.
-
-Zanim przystąpisz do wykonywania zadań, zapoznaj się dokładnie ze strukturą i zasadami działania obu pętli. W szczególności zwróć uwagę na warunki zakończenia ich wykonywania.
 
 &nbsp;
 
