@@ -17,10 +17,6 @@
 
 ### :point_right: &nbsp; [`#01`](./01) &nbsp; [`#02`](./02) &nbsp; [`#03`](./03) &nbsp; :point_left:
 
-&nbsp;
-
-:arrow_left: [*poprzedni zestaw zadań (**HTML i CSS: Responsywność**)*](https://github.com/devmentor-pl/practice-html-and-css-rwd)
-
 ## Jak wykonać zadania?
 
 > :no_entry: *Jeśli poniższa instrukcja nie jest dla Ciebie wystarczająca to możesz skorzystać z [bezpłatnego warsztatu JavaScript: Narzędzia](https://devmentor.pl/workshop-js-tools), w którym znajdziesz dokładniejsze informacje.*
