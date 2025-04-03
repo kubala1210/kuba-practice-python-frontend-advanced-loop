@@ -3,7 +3,7 @@
 
 &nbsp;
 
-# Python: Zaawansowany frontend
+# Python: Zaawansowany frontend - pętle
 
 
 &nbsp;
